@@ -2,6 +2,8 @@
 
 Aplicativo Windows que reúne Caixa e Central de Pedidos no mesmo menu.
 
+Os pratos ativos e disponíveis do Cardápio também aparecem na pesquisa do Caixa. Escolha quantidade, acompanhamento, adicionais e observações e inclua-os na venda junto aos produtos por quilo ou unidade. Não é preciso duplicar o cadastro.
+
 [Baixar o instalador](https://github.com/susfghvyuj/mar-e-rios-gestao-atualizacoes/releases/latest/download/MarERiosGestao-Setup.exe) · [Ver versões](https://github.com/susfghvyuj/mar-e-rios-gestao-atualizacoes/releases)
 
 Ao receber o pagamento na retirada, o pedido gera uma única venda no Caixa, com os valores originais, adicionais, CPF/CNPJ opcional e troco. Os pedidos do cardápio continuam chegando enquanto o Caixa está aberto.
